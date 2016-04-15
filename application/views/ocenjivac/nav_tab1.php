@@ -1,0 +1,1 @@
+<li> <a href='<?php echo getBaseURL().UserData::getUserType()."/home"; ?>'> <span>Nastava</span> </a> </li>  

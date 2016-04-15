@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_",
+				"_SERVER"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"whi",
+				"whitelisted"
+			],
+			[
+				"log_me",
+				"log_me_in_options_group"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"debu",
+				"SublimeLinter: Disable Debug Mode"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 194.0,
+		"history":
+		[
+			"sublime.active_window().active_view().settings().get('syntax')",
+			"$PATH",
+			"where $PATH",
+			"PATH",
+			"where PATH",
+			"where SublimeLinter-php",
+			"where phptt.exe",
+			"where php.exe",
+			"where php",
+			"where linter",
+			"where php",
+			"where ",
+			"where ?",
+			"where SublimeLinter-phplint",
+			"where linter",
+			"where php",
+			"where SublimeLinter-php.exe",
+			"where SublimeLinter-php",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/PC/Desktop/GradeAssist/html/more-login.html",
+		"/C/Users/PC/Desktop/GradeAssist/html/zaposlen-kalendar.html",
+		"/C/Users/PC/Desktop/GradeAssist/html/zaposlen-objaviobavezu.html",
+		"/C/Users/PC/Desktop/GradeAssist/html/admin-arhiva.html",
+		"/C/Users/PC/Desktop/GradeAssist/html/student-arhiva.html",
+		"/C/Users/PC/Desktop/GradeAssist/html/student-glavna.html",
+		"/C/Users/PC/Desktop/GradeAssist/html/zaposlen-glavna.html",
+		"/C/Users/PC/Desktop/GradeAssist/html/sass/plugins/calendar.scss",
+		"/C/Users/PC/Desktop/GradeAssist/html/student-obaveze-projekti.html",
+		"/C/Users/PC/Desktop/GradeAssist/html/admin-glavna.html",
+		"/C/Users/PC/Desktop/GradeAssist/html/admin-kalendar.html",
+		"/C/Users/PC/Desktop/GradeAssist/html/admin-upravljaj-korisnicima.html",
+		"/C/Users/PC/Desktop/GradeAssist/html/js/application.js",
+		"/C/Users/PC/Desktop/GradeAssist/html/tables-advanced.html",
+		"/C/Users/PC/Desktop/GradeAssist/html/encrypted-source.html",
+		"/C/Users/PC/Desktop/GradeAssist/html/css/style.css",
+		"/C/Users/PC/Desktop/GradeAssist/html/js/jquery.min.js",
+		"/C/Users/PC/Desktop/GradeAssist/html/index.html",
+		"/C/Users/PC/Desktop/style.css",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DIa0.552/favicon_me.php",
+		"/C/Users/PC/Desktop/asdf.php",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DIa0.908/favicon_me.php",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/PC/Desktop/log_me_in23.php",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Installed Packages/SublimeLinter-php.sublime-package",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/User/linters/php.py",
+		"/C/Users/PC/Desktop/favicon_me.php",
+		"/C/Users/PC/Desktop/log_me_in.php",
+		"/C/Users/PC/Desktop/FB-OG.php",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DIa0.826/log_me_in.php",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DIa0.934/log_me_in.php",
+		"/C/xampp/htdocs/assets/plugins/log_me_in.php",
+		"/C/xampp/htdocs/wp-admin/admin.php",
+		"/C/xampp/htdocs/wp-admin/index.php",
+		"/C/xampp/htdocs/wp-settings.php",
+		"/C/xampp/htdocs/wp-config.php",
+		"/C/xampp/htdocs/wp-load.php",
+		"/C/xampp/htdocs/wp-login.php",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DRa0.032/worker/readme.txt",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DRa0.418/worker/functions.php",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DRa0.279/worker/init.php",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DRa0.230/access_log-2015-02-06",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DRa0.018/access_log-2015-02-09",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DRa0.888/access_log-2015-02-08",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DRa0.031/access_log-2015-02-07",
+		"/C/xampp/htdocs/assets/plugins/FAVICON_MIN.php",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DIa0.681/menu_options.php",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DIa0.795/wordfenceClass.php",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DRa0.439/wordfence/wordfence.php",
+		"/C/xampp/htdocs/wp-config-sample.php",
+		"/C/xampp/htdocs/assets/plugins/FB-OG/FB-OG.php",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DRa0.447/access_log-2015-02-05",
+		"/C/xampp/htdocs/assets/plugins/favicon_me.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DRa0.617/access_log-2015-02-07",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DRa0.114/access_log-2015-02-06",
+		"/C/Users/PC/Desktop/davorIP",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DRa0.950/access_log-2015-02-05",
+		"/C/Users/PC/Downloads/hello.php",
+		"/C/Users/PC/Downloads/admin-bar.php",
+		"/C/xampp/htdocs/test.com/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open folders>",
+			"C:\\xampp\\htdocs",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<a href=\"#upload\" class=\"btn\" rel=\"tooltip\" title=\"Info\"",
+			"title=\"Upload\"",
+			"href=\"#\" class=\"btn\" rel=\"tooltip\" title=\"Upload\"",
+			"href=\"#\" class=\"btn\" rel=\"tooltip\" title=\"Info\" data-toggle=\"#upload\"",
+			"projectp",
+			"gle=\"#upload\"",
+			" title=\"Info\"",
+			"submit",
+			"arhiva",
+			"red",
+			"main",
+			"arhiva",
+			"user",
+			"calendar",
+			"row\"",
+			"row",
+			"template",
+			"contain",
+			"kalenda",
+			"zaposleni-",
+			"demonstrator-",
+			"theme-",
+			"theme-teal",
+			"theme",
+			"id=\"left",
+			"flu",
+			"fluid",
+			"plan an",
+			"original-title=\"Delete",
+			"original-title=\"Edit\"",
+			"fa-edit",
+			"kalendar",
+			"calendar",
+			"calend",
+			"dtt",
+			"class=\"row",
+			"row",
+			"tasks",
+			"demonstra",
+			"<td class=\"hidden-350\">\\s[^\\<]*</td>",
+			"student",
+			"uprav",
+			"dashboa",
+			"dash",
+			"dashb",
+			"modal",
+			"edit",
+			"awes",
+			"category-side-nav",
+			"echo",
+			"([^\\\"]*)\\\"([^>]*)>(.*)<\\/",
+			"77.105.18.131",
+			"authen",
+			"apply_filter( 'auth",
+			"apply_filter( 'wp_login",
+			"apply_filter( 'wp_log",
+			"do_action( 'wp_log",
+			"do_action( 'init",
+			"do_action( '",
+			"pass",
+			"authentica",
+			"secopt",
+			"add"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<a href=\"#info\" class=\"btn\" rel=\"tooltip\" title=\"Info\"",
+			"title=\"Pošalji datoteke\"",
+			"href=\"#upload\" class=\"btn\" rel=\"tooltip\" title=\"Upload\" data-toggle=\"modal\"",
+			"href=\"#upload\" class=\"btn\" rel=\"tooltip\" title=\"Info\" data-toggle=\"modal\"",
+			" title=\"Info\" data-toggle=\"#upload\"",
+			"glavna",
+			"zaposlen-",
+			"zaposleni-",
+			"theme-darkblue",
+			"original-title=\"Obriši korisnika\"",
+			"original-title=\"Prijavi se kao korisnik\"",
+			"fa-sign-in",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
